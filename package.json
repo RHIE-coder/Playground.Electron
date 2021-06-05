@@ -1,0 +1,23 @@
+{
+  "name": "electron-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RHIE-coder/Playground.Electron.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RHIE-coder/Playground.Electron/issues"
+  },
+  "homepage": "https://github.com/RHIE-coder/Playground.Electron#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^13.1.1"
+  }
+}
